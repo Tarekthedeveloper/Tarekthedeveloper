@@ -1,6 +1,6 @@
 # Welcome to My GitHub World! 🌐
 
-![Professional Banner](https://avatars.githubusercontent.com/u/56735979?s=400&u=60504cd3ee06667fad05584b9bf91d9a3dd6f6d9&v=4) <!-- Replace with your professional banner image -->
+![Professional Banner](https://github.com/Tarekthedeveloper/3333/blob/main/a7e8faff73c5af91f1072e8abb6a4f8e.gif) <!-- Replace with your professional banner image -->
 
 ## 👋 About Me
 
@@ -13,7 +13,7 @@ I am a **Discord Bot Developer** with over 5 years of experience in crafting int
 ## 🚀 My Projects
 
 ### Tera Quran - The Ultimate Discord Quran Bot 🕋
-[![Tera Quran](https://your-image-url-here)](https://github.com/your-repo-link)
+[![Tera Quran](https://github.com/Tarekthedeveloper/3333/blob/main/4.PNG)
 
 Tera Quran is a specialized bot designed to integrate Quranic recitations and functionalities into your Discord server. Key features include:
 
