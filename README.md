@@ -1,6 +1,6 @@
 # Welcome to My GitHub World! 🌐
 
-![Professional Banner](https://ibb.co/b2rTpjY) <!-- Replace with your professional banner image -->
+![Professional Banner](https://avatars.githubusercontent.com/u/56735979?s=400&u=60504cd3ee06667fad05584b9bf91d9a3dd6f6d9&v=4) <!-- Replace with your professional banner image -->
 
 ## 👋 About Me
 
