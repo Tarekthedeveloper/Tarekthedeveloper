@@ -13,7 +13,7 @@ I am a **Discord Bot Developer** with over 5 years of experience in crafting int
 ## 🚀 My Projects
 
 ### 🕋 Ayat・آيات - The Ultimate Discord Quran Bot 🕋
-![🕋 Ayat・آيات](https://github.com/Tarekthedeveloper/3333/blob/main/4.PNG)
+![🕋 Ayat・آيات](https://github.com/Tarekthedeveloper/3333/blob/main/87.PNG)
 
 🕋 Ayat・آيات is a specialized bot designed to integrate Quranic recitations and functionalities into your Discord server. Key features include:
 
