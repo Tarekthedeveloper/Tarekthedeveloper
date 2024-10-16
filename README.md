@@ -12,14 +12,14 @@ I am a **Discord Bot Developer** with over 5 years of experience in crafting int
 
 ## 🚀 My Projects
 
-### Tera Quran - The Ultimate Discord Quran Bot 🕋
-[![Tera Quran](https://github.com/Tarekthedeveloper/3333/blob/main/4.PNG)
+### 🕋 Ayat・آيات - The Ultimate Discord Quran Bot 🕋
+![🕋 Ayat・آيات](https://github.com/Tarekthedeveloper/3333/blob/main/4.PNG)
 
-Tera Quran is a specialized bot designed to integrate Quranic recitations and functionalities into your Discord server. Key features include:
+🕋 Ayat・آيات is a specialized bot designed to integrate Quranic recitations and functionalities into your Discord server. Key features include:
 
 - **Quranic Recitations:** Provides access to a wide range of Quranic recitations and translations.
-- **Interactive Controls:** Offers commands for playing, pausing, and navigating through recitations.
-- **Verse Search & Playback:** Allows users to search for specific verses and play them directly.
+- **Interactive Controls:** Offers buttons controller for pausing,stoping,increase volume(ext..).
+-** Select Menu**: Users interact with a dropdown menu that displays available verses.
 - **Customizable Notifications:** Send automated notifications for prayer times or Quranic reminders.
 
 
@@ -33,7 +33,7 @@ Tera Quran is a specialized bot designed to integrate Quranic recitations and fu
 ## 📫 Get in Touch
 
 - 📧 **Email:** [tarekdevoffical@gmail.com](tarekdevoffical@gmail.com)
-- 🌐 **Portfolio:** [Soon !](https://your-website.com)
+- 🌐 **My Discord:** [Tarek](https://discordapp.com/users/528352211948798003)
 
 ---
 
